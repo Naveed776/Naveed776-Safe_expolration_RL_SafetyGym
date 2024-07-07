@@ -15,8 +15,10 @@ Episode returns and costs varied widely, with the highest return being 4.648 and
 
 The training session demonstrated high performance, achieving 102,000 timesteps in 265 seconds at 384 fps over 34 iterations. The key training metrics indicated a good fit with minimal policy gradient and value losses. Episode performance showed variability in returns and costs, suggesting areas for optimization in return consistency and cost management. Overall, the training yielded promising results with potential for further improvement.
 
-[Screencast from 07-06-2024 03:53:20 PM.webm](https://github.com/Naveed776/Safe_expolration_RL_SafetyGym/assets/91262613/a811cd6c-2086-436c-9526-c35721d4ab33)
 
-![Figure_1](https://github.com/Naveed776/Safe_expolration_RL_SafetyGym/assets/91262613/32d159de-dfad-41d2-8b33-0f40cc7fd741)
 
+[Screencast from 07-06-2024 03_53_20 PM.webm](https://github.com/Naveed776/Safe_expolration_RL_SafetyGym/assets/91262613/89a7889c-f74f-4688-b956-c205109966a5)
+
+
+![Figure_1](https://github.com/Naveed776/Safe_expolration_RL_SafetyGym/assets/91262613/c5187be2-5ff7-4080-bc06-d9b6981961b1)
 

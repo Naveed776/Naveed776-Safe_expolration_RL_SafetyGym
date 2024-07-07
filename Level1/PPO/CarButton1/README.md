@@ -22,7 +22,8 @@ The performance metrics and training data provide a comprehensive view of the sy
 
 
 In summary, the system shows consistent performance with stable training metrics and generally positive returns across episodes. While there are occasional high costs and negative returns, the overall trend is positive, suggesting that the policy is effective and the training process is well-optimized. Future efforts should focus on reducing variability and addressing episodes with high costs to further enhance performance.
-[CarButton1.webm](https://github.com/Naveed776/Safe_expolration_RL_SafetyGym/assets/91262613/b33fa52e-710e-4ea8-a75b-ffc69ca103f1)
 
-![CarButton1](https://github.com/Naveed776/Safe_expolration_RL_SafetyGym/assets/91262613/405b698d-30fb-40ff-9128-b15a5b0be582)
+[CarButton1 (4).webm](https://github.com/Naveed776/Safe_expolration_RL_SafetyGym/assets/91262613/cf9be641-4a89-43af-b21f-37299e647f17)
 
+
+![CarButton1](https://github.com/Naveed776/Safe_expolration_RL_SafetyGym/assets/91262613/1d7f4dd1-f946-440d-bec3-c50831b1d49b)

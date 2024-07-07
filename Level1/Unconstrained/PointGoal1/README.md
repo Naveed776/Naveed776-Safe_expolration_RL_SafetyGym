@@ -17,3 +17,6 @@ In summary, the system exhibits robust performance with stable training dynamics
 
 [Level1_Unconstrained_PointGoal1_PointGoal.webm](https://github.com/Naveed776/Safe_expolration_RL_SafetyGym/assets/91262613/7c7fd630-66ef-4392-bf35-de93334367d7)
 
+![PointGoal](https://github.com/Naveed776/Safe_expolration_RL_SafetyGym/assets/91262613/b9f10efe-b9dd-4cb1-896b-6f2abf686474)
+
+

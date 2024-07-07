@@ -21,7 +21,9 @@ The performance and training metrics indicate that the system is functioning eff
 
 In summary, the system exhibits strong performance with stable training metrics and consistently positive episode returns. The variability in costs suggests areas for potential optimization, but the overall effectiveness and efficiency of the policy are evident. Future efforts should focus on reducing cost variability to further enhance system performance.
 
+[CarGoal1.webm](https://github.com/Naveed776/Safe_expolration_RL_SafetyGym/assets/91262613/46c4da4f-d0a1-4849-b5a7-707f9ea10286)
 
-[CarGoal1.webm](https://github.com/Naveed776/Safe_expolration_RL_SafetyGym/assets/91262613/6225c866-4a3e-4242-97a9-da7344aa2744)
 
-![CarGoal1](https://github.com/Naveed776/Safe_expolration_RL_SafetyGym/assets/91262613/abde9373-fe4b-4af7-a7ed-bb780a3b90a0)
+![CarGoal1](https://github.com/Naveed776/Safe_expolration_RL_SafetyGym/assets/91262613/90481387-5480-4d7b-9dc3-20ac7bd450de)
+
+

@@ -14,8 +14,13 @@ Episode returns and costs varied widely. The highest return was 14.401 with a co
 
 The training session showed steady performance and significant progress. The key training metrics indicated a reasonably good fit with minimal policy gradient and value losses. Episode performance showed variability in returns and costs, highlighting areas for optimization. Overall, the training yielded promising results with potential for further improvement.
 
-[carbutton1.webm](https://github.com/Naveed776/Safe_expolration_RL_SafetyGym/assets/91262613/711785c6-2456-4210-a77f-87ea95940c39)
 
 
-![CarButton1](https://github.com/Naveed776/Safe_expolration_RL_SafetyGym/assets/91262613/26e06eb6-ab69-4f34-911c-9fbaf3ffa953)
+https://github.com/Naveed776/Safe_expolration_RL_SafetyGym/assets/91262613/09f78b2f-3628-45f8-9a3d-2c7c47bccca4
+
+
+
+
+![Figure_1](https://github.com/Naveed776/Safe_expolration_RL_SafetyGym/assets/91262613/66d1bea5-eafb-46ed-b1a2-26ebfc56eaf3)
+
 

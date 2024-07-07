@@ -10,9 +10,9 @@ The episodes had varied returns and costs. The highest return was 19.500 in Epis
 **Summary:**
 The training session demonstrated efficient performance, completing 102,000 timesteps in 361 seconds at 282 fps over 34 iterations. Training metrics showed good optimization with minimal policy gradient and value losses. Episode performance varied, with returns ranging from 1.859 to 19.500 and costs from 2.000 to 264.000, indicating areas for potential improvement in consistency and cost management. Overall, the training was successful, with promising results for further refinement.
 
-[PointButton1.webm](https://github.com/Naveed776/Safe_expolration_RL_SafetyGym/assets/91262613/3828bde5-7958-4388-8563-1e352ba25856)
 
+[PointButton1.webm](https://github.com/Naveed776/Safe_expolration_RL_SafetyGym/assets/91262613/e8a80c9c-419b-488a-a992-3cbecc74445e)
 
-![PointButton1](https://github.com/Naveed776/Safe_expolration_RL_SafetyGym/assets/91262613/a9ddc17a-2670-49f4-aaa0-731ad669ddd0)
+![PointButton1](https://github.com/Naveed776/Safe_expolration_RL_SafetyGym/assets/91262613/0320a892-7e75-459e-8af2-d32ac80f2044)
 
 

@@ -17,10 +17,13 @@ Episode returns are generally positive, ranging from 33.327 to 39.828, with cost
 
 In summary, the system shows robust performance and stability in training, with consistent rewards and effective learning. Future improvements could focus on further reducing episode costs to optimize performance.
 
+[PointGoal1.webm](https://github.com/Naveed776/Safe_expolration_RL_SafetyGym/assets/91262613/0d6f35b5-2cb6-437d-babd-6028d1f3fbcf)
 
-[PointGoal1.webm](https://github.com/Naveed776/Safe_expolration_RL_SafetyGym/assets/91262613/81c8a37f-7fcc-451c-b4ab-c0535f64d418)
 
 
-![Figure_1](https://github.com/Naveed776/Safe_expolration_RL_SafetyGym/assets/91262613/1574bb73-3254-4d27-a534-4dd4d401ab6e)
+
+
+![PoinGoal1](https://github.com/Naveed776/Safe_expolration_RL_SafetyGym/assets/91262613/5375572c-173c-4980-a9c1-ece722b611b7)
+
 
 

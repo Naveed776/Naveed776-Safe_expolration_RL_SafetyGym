@@ -15,8 +15,9 @@ Episode returns vary between 13.181 and 22.446, with individual returns demonstr
 
 In summary, while the system shows consistent performance and effective learning dynamics, there is room for further optimization to enhance average rewards and reduce return variability across episodes.
 
-[PointButton1.webm](https://github.com/Naveed776/Safe_expolration_RL_SafetyGym/assets/91262613/f4062e61-b658-4e89-bba3-73234c65c2af)
+[PointButton1.webm](https://github.com/Naveed776/Safe_expolration_RL_SafetyGym/assets/91262613/7c0ddc91-49ce-4b68-81a6-69ae755b6a31)
 
-![PointButton1](https://github.com/Naveed776/Safe_expolration_RL_SafetyGym/assets/91262613/97823042-59d6-4764-9275-eb091ca877a6)
+
+![PointButton1](https://github.com/Naveed776/Safe_expolration_RL_SafetyGym/assets/91262613/29dea918-5269-4e7b-91ed-3cad2e2a7db3)
 
 

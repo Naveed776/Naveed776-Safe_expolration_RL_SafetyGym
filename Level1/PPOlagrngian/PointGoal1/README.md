@@ -1,4 +1,4 @@
-[Screencast from 07-06-2024 04:05:11 PM.webm](https://github.com/Naveed776/Safe_expolration_RL_SafetyGym/assets/91262613/b865f1fc-0310-4a49-9f09-2211d7fc470b)**Rollout Metrics:**
+**Rollout Metrics:**
 The training session operated at a swift pace of 473 frames per second (fps) across 34 iterations, culminating in 102,000 total timesteps completed in 215 seconds.
 
 **Training Metrics:**
@@ -12,9 +12,9 @@ Across various episodes, returns fluctuated significantly, ranging from 4.866 to
 The training session demonstrated high performance, achieving 102,000 timesteps in 215 seconds at 473 fps over 34 iterations. The key training metrics indicated a good fit with minimal policy gradient and value losses. Episode performance showed variability in returns and costs, with notable high returns in several episodes. Overall, the training yielded promising results with potential for further optimization in managing costs and consistency in returns.
 
 
-[Uploading Screencast from 07-06-2024 04:05:11 PM.webm…]()
+[Point Goal 1.webm](https://github.com/Naveed776/Safe_expolration_RL_SafetyGym/assets/91262613/69af65ce-5877-414c-b4e9-4e30f7455c77)
 
 
-![Figure_1](https://github.com/Naveed776/Safe_expolration_RL_SafetyGym/assets/91262613/bca74279-307c-448b-b8aa-afb0ca82bfda)
+![Point Goal 1](https://github.com/Naveed776/Safe_expolration_RL_SafetyGym/assets/91262613/eecdf37d-0ad5-400f-8d70-abeee065dfcc)
 
 

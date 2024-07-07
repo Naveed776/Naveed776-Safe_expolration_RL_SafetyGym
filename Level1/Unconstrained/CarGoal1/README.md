@@ -16,9 +16,11 @@ Key training metrics highlight stable performance:
 Episode returns vary between 9.851 and 15.918, reflecting the system's ability to adapt and perform across episodes.
 
 In summary, the system demonstrates robust and efficient training dynamics with consistent metrics. Further optimization efforts could focus on improving average reward performance and reducing variability through enhanced policy refinement and adaptive learning strategies.
-[Screencast from 07-04-2024 08:08:45 PM.webm](https://github.com/Naveed776/Safe_expolration_RL_SafetyGym/assets/91262613/c82e0ed8-f5ae-46cc-b658-56430c3bf320)
-
-![Figure_1](https://github.com/Naveed776/Safe_expolration_RL_SafetyGym/assets/91262613/d67560e6-bbe6-4edd-9aa2-8939730d13de)
 
 
+[Screencast from 07-04-2024 08_08_45 PM.webm](https://github.com/Naveed776/Safe_expolration_RL_SafetyGym/assets/91262613/bf7f3083-1840-4b28-90c9-48514bfe2c07)
+
+
+
+![Figure_1](https://github.com/Naveed776/Safe_expolration_RL_SafetyGym/assets/91262613/087bef19-5af4-42c9-a7ae-d346a91f9277)
 
